@@ -822,15 +822,19 @@
 
 @media (max-width: 575px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 141px;
+    min-height: 483px;
   }
 
   .u-section-5 .u-text-1 {
     font-size: 1.875rem;
+    width: auto;
+    margin-top: 33px;
     margin-right: 0;
   }
 
   .u-section-5 .u-form-1 {
+    height: 106px;
     width: 340px;
+    margin: 125px -20px 20px;
   }
 }
