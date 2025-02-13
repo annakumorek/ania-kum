@@ -44311,9 +44311,11 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
-    margin-top: -81px;
-    margin-bottom: -31px;
-    margin-left: 2px;
+    width: 45px;
+    height: 45px;
+    margin-top: -45px;
+    margin-bottom: 0;
+    margin-left: 20px;
   }
 }
  .u-footer {
