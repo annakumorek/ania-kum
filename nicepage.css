@@ -44292,9 +44292,9 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  width: 173px;
-  height: 173px;
-  margin: -96px auto -38px 0;
+  width: 113px;
+  height: 113px;
+  margin: -74px auto -1px 38px;
 }
 
 .u-header .u-logo-image-1 {
@@ -44309,7 +44309,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
-    margin-top: -96px;
     margin-bottom: 60px;
   }
 }
